@@ -1,4 +1,4 @@
-# Rocket Code — Brand Assets
+# rocket code — Brand Assets
 
 Repositorio de recursos de marca de Rocket Code.
 
